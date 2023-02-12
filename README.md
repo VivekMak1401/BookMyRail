@@ -1,2 +1,2 @@
 # BookMyRail
-Collage Minor Project.
+College Minor Project.
